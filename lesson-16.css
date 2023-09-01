@@ -55,15 +55,6 @@ header {
 }
 
 
-/* --(BUTTON)-- */
-.login-button {
-	padding: 15px 20px 10px 20px;
-	cursor: pointer;
-	border-radius: 6px;
-	border: 1px solid #fff;
-	color: #fff;
-}
-
 /* ---(CENTER CONTENT)--- */
 .rod_1 > h1 {
 	font-size: 72px;
